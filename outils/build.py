@@ -131,7 +131,7 @@ HTML = r"""<!doctype html>
       </div>
       <div class="plein">
         <label for="adresse">Adresse <span class="doux">— facultative, laisser vide pour retirer la ligne</span></label>
-        <input id="adresse" value="">
+        <input id="adresse" value="Sanoyah km 38 / Conakry République de Guinée">
       </div>
       <div class="plein">
         <label for="linkedin">LinkedIn <span class="doux">— facultatif, laisser vide pour retirer la ligne</span></label>
